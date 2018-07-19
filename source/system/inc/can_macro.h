@@ -1,7 +1,7 @@
 /**
   ******************************************************************************
   * @file		can_macro.h
-  * @author		Nobita Yan
+  * @author		
   * @version	V0.1
   * @date    
   * @brief   	can macro protocal
